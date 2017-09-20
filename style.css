@@ -1,0 +1,20 @@
+#square1 {
+  background-color: #00FF00;
+  width: 30%;
+  height: 200px;
+  display: inline-block
+}
+
+#square2 {
+  background-color: #FFA500;
+  width: 30%;
+  height: 200px;
+  display: inline-block
+}
+
+#square3 {
+  background-color: #CCC000;
+  width: 30%;
+  height: 200px;
+  display: inline-block
+}
